@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sarmad</h1>
 <h3 align="left">Software Developer - 💻</h3>
 
-- Currently building [Kazi](https://www.kazihub.co/) - Centralising Job Applications
+- Currently building [Silas Insurtech](https://portal.silasinsurtech.io/en) - The end to end underwriting companion.
 - 👨‍💻 All of my projects are available at [https://sarmadkhatri.com/](https://sarmadkhatri.com/)
 
 - 📫 How to reach me **sarmadkhatri15@gmail.com**
